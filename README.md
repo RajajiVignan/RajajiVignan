@@ -1,9 +1,7 @@
 ### 👋 Hi, I’m @RajajiVignan
-- 😃 I'm a Data Science student and a freelancer. 
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Engineering Physics.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on Image processing and NLP projects. 
-
+- 😃 I'm a Test Engineer by profession.  
+- 👀 I’m interested in Automation, Data Analytics and Data Science.
+- 🌱 I'm irregularly regular to github!
 
 ### Connect with me: 
 
