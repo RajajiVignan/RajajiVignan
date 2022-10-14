@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @RajajiVignan
-- 😃 I'm a Test Engineer by profession.  
+- 😃 I'm a Software Engineer by profession.  
 - 👀 I’m interested in Automation, Data Analytics and Data Science.
 - 🌱 I'm irregularly regular to github!
 
